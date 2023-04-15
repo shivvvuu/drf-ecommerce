@@ -73,3 +73,6 @@ venv/
 .DS_Store
 .idea
 .vscode
+
+# schema
+schema.yml
